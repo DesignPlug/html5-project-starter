@@ -1,0 +1,3 @@
+/**
+ * add default javascript here
+ */
